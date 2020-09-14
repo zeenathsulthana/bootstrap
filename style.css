@@ -1,0 +1,29 @@
+body {
+  background: url();
+  align-items: center;
+}
+.ima {
+  height: 100px;
+  width: 300px;
+  margin-top: 20%;
+}
+.placeholder {
+  margin-top: 2%;
+  size: 60px;
+  height: 40%;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 20px;
+}
+.btn1 {
+  margin-left: 38%;
+  margin-top: 2%;
+}
+.btn2 {
+  margin-left: 1%;
+  margin-top: 2%;
+}
+.text {
+  margin-left: 30%;
+  margin-top: 2%;
+}
